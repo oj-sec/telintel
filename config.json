@@ -1,0 +1,11 @@
+{
+    "telegramApiID": 0,
+    "telegramApiHash": "",
+    "downloadPath":"",
+    "excludedMimeTypes": [
+        "video/mp4",
+        "image/webp",
+        "application/x-tgsticker"
+    ],
+    "botToken":""
+  }
